@@ -1,0 +1,28 @@
+{
+  "name": "6-how-to-use-fp-ts-routing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "vitest run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^25.3.5",
+    "fp-ts": "^2.16.11",
+    "fp-ts-routing": "github:rinn7e/fp-ts-routing",
+    "io-ts": "^2.2.22",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "vitest": "^4.0.18"
+  }
+}
